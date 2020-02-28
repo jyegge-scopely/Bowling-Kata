@@ -12,4 +12,8 @@
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Bowling-Kata\Bowling-Kata.csproj" />
+    </ItemGroup>
+
 </Project>
